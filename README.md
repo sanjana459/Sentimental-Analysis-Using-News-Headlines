@@ -1,7 +1,7 @@
 # Sentimental-Analysis-Using-News-Headlines
 This research project leverages Natural Language Processing (NLP) techniques and several machine learning algorithms to conduct sentiment analysis on news headlines.
 
-* This research project represents a significant advancement in the field of sentiment analysis, with the accuracy of sentiment classification improved from 85% to an impressive 92%. In today's information-driven world, staying attuned to global events is of paramount importance. News headlines, as concise summaries of news articles, offer a rich source for extracting sentiment and gaining insights into public perceptions.
+* This research project represents a significant advancement in the field of sentiment analysis, with the accuracy of sentiment classification improved from 85% to an impressive 90%. In today's information-driven world, staying attuned to global events is of paramount importance. News headlines, as concise summaries of news articles, offer a rich source for extracting sentiment and gaining insights into public perceptions.
 
 * To achieve this accuracy improvement, the research project leveraged Natural Language Processing (NLP) techniques and several machine learning algorithms, including K-Nearest Neighbors (KNN), Support Vector Machines (SVM), Naive Bayes, and Random Forest, for sentiment analysis on news headlines.
 
